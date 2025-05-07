@@ -1,5 +1,7 @@
-# portfolio
-
+# Vivek Bhure
+[Github](https://github.com/523vivek)
+[LinkedIn](https://www.linkedin.com/in/vivek523)
+[Gmail](vivek.bhure523@gmail.com)
 # Education
 B.Tech (IT) | Rajarambapu Institute Of Technology (2020)
 
