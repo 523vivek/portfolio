@@ -18,12 +18,12 @@ Implemented image classification using VGG16 to detect plant diseases. Used pyth
 ### Comparative Analysis Of Disease Prediction
  Using Machine Learning Algorithms Compared multiple ML algorithms for predicting diseases. Evaluated models based on precision, recall and accuracy. 
 
- # Skills
- ### Java 
- ### HTML 
- ### CSS 
- ### JSP 
- ### Servlets 
+# Skills
+### Java 
+### HTML 
+### CSS 
+### JSP 
+### Servlets 
 ### JDBC 
 ### MySQL 
 ### SDLC 
