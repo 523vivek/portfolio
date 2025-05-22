@@ -2,6 +2,9 @@
 [Github](https://github.com/523vivek)
 [LinkedIn](https://www.linkedin.com/in/vivek523)
 [Gmail](vivek.bhure523@gmail.com)
+[LeetCode](https://leetcode.com/vivek_bhure/)
+[HackerRank](https://www.hackerrank.com/profile/vivek_bhure523)
+
 # Education
 - B.Tech (IT) | Rajarambapu Institute Of Technology (2020)
 
