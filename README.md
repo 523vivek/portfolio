@@ -22,6 +22,8 @@
 - Strengthened communication and time management through intensive study planning.
   
 
+
+
 # Technical Stack
 ### Programming: 
 - Java, HTML, CSS, JavaScript
@@ -40,6 +42,9 @@
 
 ### Version Control: 
 - Git, GitHub
+
+
+
 
 # Projects 
 ### Venture Together 
@@ -60,14 +65,23 @@
 ### Comparative Analysis Of Disease Prediction
 - Evaluated ML algorithms on medical datasets using accuracy, precision, and recall. 
 
+
+
+
 # CERTIFICATES 
 ### ISTQB - Certified Tester Foundation Level (CTFL)
 - Score: 36/40
+
+
+
 
 # ACHIEVEMENTS 
 - Winner – Automated Optical Inspection Project Competition, Asia University, Taiwan
   
 - Winner – Innoveta Idea Competition, RIT Islampur
+
+
+
 
 # Interests
 - Reading, Traveling, Photography
