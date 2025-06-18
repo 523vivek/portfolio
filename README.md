@@ -7,7 +7,7 @@
 
 
 # Education
-- B.Tech (IT) | Rajarambapu Institute Of Technology  (6.68)
+- B.Tech (IT) | Rajarambapu Institute Of Technology  | (6.68)
   
 
 # Experience
@@ -29,7 +29,7 @@
 - Java, HTML, CSS, JavaScript
   
 ### Frameworks & Tools: 
-- Spring Boot, JSP, Servlets
+- Spring Boot, JSP, Servlets, Docker(basic)
    
 ### Databases: 
 - MySQL
