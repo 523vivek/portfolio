@@ -23,8 +23,8 @@ Aspiring Java Full Stack Developer with hands-on experience in developing full-s
   
 ### Development Practices: 
 - SDLC, Agile, Test Case Writing
-### Testing: ISTQB-
-- CTFL Certified, Manual Testing Fundamentals
+### Testing: 
+- ISTQB-CTFL Certified, Manual Testing Fundamentals
 
 ### Version Control: 
 - Git, GitHub
@@ -32,31 +32,30 @@ Aspiring Java Full Stack Developer with hands-on experience in developing full-s
 # Projects 
 ### Venture Together 
 - Developed a web-based collaboration platform using HTML, JSP and Servlets. Implemented User authentication and dynamic page rendering.
+- Developed using HTML, Java, JSP, Servlets, and MySQL with layered architecture.
   
 ### CIBA Food App 
-- Built a mobile app to connect food donors with NGOs and fertilizer plants. Helped reduce food waste and streamline distribution using user location and inventory systems.
-  
-### Sustainable Smart Agriculture System 
-- An loT based smart agriculture system which minimizes and optimize the usage of water & fertilizers.
+- Built a mobile app connecting food donors with NGOs and fertilizer plants.
+- Integrated user location and inventory systems to reduce food waste.
   
 ### Automated Optical Inspection 
-- Developed a VGG16 based deep learning model for defect detection in PCBs. Won first rank at Asia University, Taiwan.
-  
+- Developed a VGG16-based defect detection system for PCBs using Python and OpenCV.
+- Led the team. Won 1st prize at Asia University, Taiwan.
+
 ### Plant Disease Prediction 
-- Implemented image classification using VGG16 to detect plant diseases. Used python, Keras and OpenCV.
+- Built a plant disease prediction model using VGG16, Keras, and OpenCV.
   
 ### Comparative Analysis Of Disease Prediction
-- Using Machine Learning Algorithms Compared multiple ML algorithms for predicting diseases. Evaluated models based on precision, recall and accuracy. 
-
-
-
-# ACHIEVEMENTS 
-### Winner - Automated Optical Inspection | (07/2019 - 07/2019) 
-- Got first rank in AOI project at Asia University, Taiwan
-  
-### Winner - Innoveta Idea Competiton 
-- Got first rank at innoveta idea competiton held at RIT, Islampur 
+- Evaluated ML algorithms on medical datasets using accuracy, precision, and recall. 
 
 # CERTIFICATES 
-### ISTQB - CTFL (Certified Tester Foundation Level) | (08/2023 - Present) 
-ISTQB Exam score : 36 out of 40 
+### ISTQB - Certified Tester Foundation Level (CTFL)
+- Score: 36/40
+
+# ACHIEVEMENTS 
+### Winner – Automated Optical Inspection Project Competition, Asia University, Taiwan
+  
+### Winner – Innoveta Idea Competition, RIT Islampur
+
+### Interests
+- Reading, Traveling, Photography
