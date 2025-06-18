@@ -14,12 +14,20 @@ Aspiring Java Full Stack Developer with hands-on experience in developing full-s
 # Technical Stack
 ### Programming: 
 - Java, HTML, CSS, JavaScript
+  
 ### Frameworks & Tools: 
 - Spring Boot, JSP, Servlets, JDBC, Docker, Git
-### Databases: MySQL
-Development Practices: SDLC, Agile, Test Case Writing
-Testing: ISTQB-CTFL Certified, Manual Testing Fundamentals
-Version Control: Git, GitHub
+  
+### Databases: 
+- MySQL
+  
+### Development Practices: 
+- SDLC, Agile, Test Case Writing
+### Testing: ISTQB-
+- CTFL Certified, Manual Testing Fundamentals
+
+### Version Control: 
+- Git, GitHub
 
 # Projects 
 ### Venture Together 
