@@ -9,7 +9,9 @@
 Aspiring Java Full Stack Developer with hands-on experience in developing full-stack web applications using Java, JSP, Servlets, and MySQL. Recently enhanced backend skills with Spring Boot, and proficient in SDLC and Agile practices. Demonstrated ability to translate functional requirements into scalable and testable code. ISTQB-certified with a strong foundation in software quality, problem-solving, and team collaboration. Eager to contribute to robust backend systems and modern web applications.
 
 # Education
-- B.Tech (IT) | Rajarambapu Institute Of Technology (2020)
+- B.Tech (IT) | Rajarambapu Institute Of Technology
+
+
 
 # Technical Stack
 ### Programming: 
@@ -23,6 +25,7 @@ Aspiring Java Full Stack Developer with hands-on experience in developing full-s
   
 ### Development Practices: 
 - SDLC, Agile, Test Case Writing
+  
 ### Testing: 
 - ISTQB-CTFL Certified, Manual Testing Fundamentals
 
@@ -57,5 +60,5 @@ Aspiring Java Full Stack Developer with hands-on experience in developing full-s
   
 ### Winner – Innoveta Idea Competition, RIT Islampur
 
-### Interests
+# Interests
 - Reading, Traveling, Photography
