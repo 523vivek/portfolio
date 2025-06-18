@@ -5,9 +5,21 @@
 [LeetCode](https://leetcode.com/vivek_bhure/)
 [HackerRank](https://www.hackerrank.com/profile/vivek_bhure523)
 
+# Professional Summary
+Aspiring Java Full Stack Developer with hands-on experience in developing full-stack web applications using Java, JSP, Servlets, and MySQL. Recently enhanced backend skills with Spring Boot, and proficient in SDLC and Agile practices. Demonstrated ability to translate functional requirements into scalable and testable code. ISTQB-certified with a strong foundation in software quality, problem-solving, and team collaboration. Eager to contribute to robust backend systems and modern web applications.
+
 # Education
 - B.Tech (IT) | Rajarambapu Institute Of Technology (2020)
 
+# Technical Stack
+### Programming: 
+- Java, HTML, CSS, JavaScript
+### Frameworks & Tools: 
+- Spring Boot, JSP, Servlets, JDBC, Docker, Git
+### Databases: MySQL
+Development Practices: SDLC, Agile, Test Case Writing
+Testing: ISTQB-CTFL Certified, Manual Testing Fundamentals
+Version Control: Git, GitHub
 
 # Projects 
 ### Venture Together 
@@ -28,18 +40,6 @@
 ### Comparative Analysis Of Disease Prediction
 - Using Machine Learning Algorithms Compared multiple ML algorithms for predicting diseases. Evaluated models based on precision, recall and accuracy. 
 
-# Skills
-- Java 
-- HTML 
-- CSS 
-- JSP 
-- Servlets 
-- JDBC 
-- MySQL 
-- SDLC 
-- Docker 
-- Git 
-- Agile 
 
 
 # ACHIEVEMENTS 
